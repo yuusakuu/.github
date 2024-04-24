@@ -20,6 +20,13 @@
 
 <table>
   <tbody>
+  <th>
+    <tr>
+      <td align="center"><a href="https://github.com/re2panda"><img src="https://github.com/SP0F0/.github/assets/62829894/5b52e275-93ec-4117-9541-42d9ee4d2c6a" width="100px;" alt=""/><br /><sub><b>김수빈</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/keg51051"><img src="https://github.com/SP0F0/.github/assets/62829894/89996fac-c626-44e8-ba10-3dcc17252079" width="100px;" alt=""/><br /><sub><b>박예원</b></sub></a><br /></td>
+            <td align="center"><a href="https://github.com/keg51051"><img src="https://github.com/SP0F0/.github/assets/62829894/89996fac-c626-44e8-ba10-3dcc17252079" width="100px;" alt=""/><br /><sub><b>정도환</b></sub></a><br /></td>
+    </tr>
+  </th>
     <tr>
       <td align="center"><a href="https://github.com/re2panda"><img src="https://github.com/SP0F0/.github/assets/62829894/5b52e275-93ec-4117-9541-42d9ee4d2c6a" width="100px;" alt=""/><br /><sub><b>김현경</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/keg51051"><img src="https://github.com/SP0F0/.github/assets/62829894/89996fac-c626-44e8-ba10-3dcc17252079" width="100px;" alt=""/><br /><sub><b>오태훈</b></sub></a><br /></td>
