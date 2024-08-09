@@ -1,9 +1,9 @@
-# 🏢 ChunjaeCorp Digital Learning Team Alpaca Lab
+# 🏢 ChunjaeCorp Digital Learning Team
 
 ## 📝 부서명
 
 ```sh
-(주)천재교육 디지털사업본부 디지털러닝팀 알파카랩
+(주)천재교육 디지털사업본부 디지털러닝팀
 ```
 
 ## 💡 진행중인 프로젝트
